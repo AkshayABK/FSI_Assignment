@@ -1,7 +1,7 @@
 # FSI_Assignment
 SQL to Json format downloading Json File, Creating Procedure, Creating Scheduler
 
----Used Swoflakeand SnowSQL---
+---Used Swoflake and SnowSQL---
 
 Created Database, Schema and Table 
 For staging the data run the command in snowSQL--> put file://file_Path @~Staging_Area auto_compression = false/true;
