@@ -1,7 +1,4 @@
 # FSI_Assignment
-
-Snowflake Practice
-
 SQL to Json format downloading Json File, Creating Procedure, Creating Scheduler
 
 ---Used Swoflake and SnowSQL---
