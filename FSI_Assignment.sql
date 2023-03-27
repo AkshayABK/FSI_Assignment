@@ -60,7 +60,7 @@ GRANT SELECT ON ALL TABLES IN SCHEMA CARINSURANCEDATABASE.CARINSURANCESCHEMA to 
 GRANT ROLE FSI_ROLE TO USER ROOT;
 
 
-----------------------------------------------------------Assignemt 02-------------------------------------------------------------
+----------------------------------------------------------Assignment  02-------------------------------------------------------------
 USE carinsurancedatabase;
 Use Schema CARINSURANCESCHEMA;
 
