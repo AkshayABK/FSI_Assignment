@@ -33,7 +33,7 @@ To creating JSON file
 :five:
 
 Created the schedular
-> [!Tips]
+> [!IMPORTANT]
 Have to mention the compute engine + Time and Calling the Procedure
 
 :six:
@@ -49,7 +49,7 @@ AT|BEFORE
 1. AT 
   - Indicates that at perfticular time int the name only this get Indicates
 
-> [!TIP]
+> [!IMPORTANT]
 AT(Statement => .....)
 AT(Timestamp => .....)
 AT(Offset => .....)
@@ -58,7 +58,7 @@ AT(Offset => .....)
 2. Before 
    - This indicates that Before ome operation we can travel back to the time
   
-> [!TIP]
+> [!IMPORTANT]
 Before(Statement => 'Query ID')
 
 
